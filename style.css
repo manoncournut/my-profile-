@@ -1,0 +1,46 @@
+body {
+	background-color: white;
+	color: rgb(30, 30, 30);
+	font-family: Calibri;
+
+}
+
+h1 {
+    color: #9a348E;
+    font-family: roboto;
+    font-size: 50px;
+}
+
+p {
+	font-size: 20px;
+}
+
+h2 {
+	color: #e800ff;
+}
+
+a {
+	text-decoration: none;
+	color: #9a348E;
+	font-weight: bold;
+	font-size: 20px;
+}
+
+a:hover {
+	color: deeppink;
+}
+
+
+
+div {
+	background: white;
+    margin: 50px;
+    box-shadow: 0px 10px 30px rgba(255, 0, 236, 0.6);
+    border-radius: 50px;
+    padding: 50px;
+}
+
+#photo {
+	background: white;
+	border: 2px solid black;
+}
